@@ -3,4 +3,4 @@ beautifulsoup4==4.9.3
 lxml
 html5lib
 requests
-
+numpy
