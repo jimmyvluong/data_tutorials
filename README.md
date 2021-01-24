@@ -5,4 +5,6 @@ Tutorials to share and learn with others!
 
 * Learn how to extract data from tables on a web page!
 
+To launch an interactive version of the notebook, click the button below:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimmyvluong/data_tutorials/HEAD)
