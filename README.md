@@ -2,7 +2,7 @@
 Tutorials to share and learn with others!
 
 # How to use this cookbook
-The easiest way is to try it out instantly online using Binder's awesome service. [Start by clicking here](https://mybinder.org/v2/gh/jimmyvluong/data_tutorials/HEAD), wait for it to launch, then click on "python cookbook", and you'll be off to the races! It will let you run all the code interactively without having to install anything on your computer.
+The easiest way is to try it out instantly online using Binder's awesome service. [Start by clicking here](https://mybinder.org/v2/gh/jimmyvluong/data_tutorials/HEAD), wait for it to launch, then click on "python cookbook", and you'll be good to go! It will let you run all the code interactively without having to install anything on your computer.
 
 To get a preview of each tutorial, check out the descriptions and links below:
 
