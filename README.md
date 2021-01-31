@@ -9,7 +9,7 @@ To get a preview of each tutorial, check out the descriptions and links below:
 ## Tutorial 1 - Extracting Data from Websites into .csv Files in Python - **Learn how to extract data from web pages!**
 - [Tutorial 1.1 - Extracting Tables from Websites into .csv Files](https://github.com/jimmyvluong/data_tutorials/blob/main/python%20cookbook/Tutorial%201.1%20-%20Extracting%20Tables%20from%20Websites.ipynb)
 - Tutorial 1.2 - Extracting Data from Websites with Download Functionality (To be added)
-- Tutorial 1.3 - Extracting Data from your Clipboard (This is fast!) (To be added)
+- [Tutorial 1.3 - Extracting Data from your Clipboard](https://github.com/jimmyvluong/data_tutorials/blob/main/python%20cookbook/%23%20Tutorial%201.3%20-%20Extracting%20Data%20from%20your%20Clipboard.ipynb) (This is fast!)
 
 To launch an interactive version of the notebook, click the button below:
 
